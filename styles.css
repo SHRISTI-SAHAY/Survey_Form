@@ -1,0 +1,44 @@
+body{
+  font-size:18px;
+}
+h1,p{
+  text-align:center;
+  color:white;
+  padding:10px auto;
+  margin:50px auto;
+  font-size:25px
+}
+fieldset{
+  width:550px;
+  margin:10px auto;
+  padding:30px 60px;
+  background-color:#8f8f9f;
+  border-radius:5px;
+  border:none;
+}
+input,select,textarea{
+  width:100%;
+  padding:5px 5px; 
+  margin:10px auto;
+}
+.a{
+  display:flex;
+  gap:10px;
+  float:left;
+}
+.abc {
+  width: unset;
+  margin: 0 0.5em 0 0;
+  vertical-align: middle;
+}
+input[type="submit"]{
+  background-color:#1fff7f;
+  padding:10px 10px;
+  color:white;
+  border:none;
+  border-radius:5px;
+}
+
+
+
+
